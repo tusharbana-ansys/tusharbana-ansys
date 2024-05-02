@@ -34,6 +34,10 @@
 
 I am a technology enthusiast, with a keen interest in python, cloud, data engineering, AI/ML, & gaming.  I love to stay in the fast paced world of computers & gadgets, always keeping an eye out for modern evolutions in technology. Learning new skills is a hobby for me. Perceptive & Retentive nature makes me adapt quickly, and drive solutions that are reliable & effective.
 
+I hold a Bachelor’s degree in Information Technology from MIT Pune. My expertise lies in DevOps practices, including implementation for Ansys solutions and PyAnsys. I am well-versed in CI/CD tools like GitHub Actions, Jenkins, and CircleCI. I have extensive experience with cloud technologies (AWS, GCP, Azure), infrastructure-as-code languages (Terraform, CloudFormation), and configuration management tools.
+
+My passion for Python drives my work, and me to eagerly explores cutting-edge concepts such as computer vision, AI/ML, and data engineering. My knack for automating workflow processes and quick grasp of new technical concepts make me an excellent developer and asset.
+
 - 🌱 I’m currently working as a Senior Application Engineer at Ansys.
 - 🌱 I’m currently learning many new technologies related to AI/ML, Automation, Azure, etc. & I believe that everyday is a learning opportunity.
 - 📫 How to reach me - Email at tushar.bana@ansys.com 
