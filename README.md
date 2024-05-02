@@ -33,9 +33,6 @@
 ![Counter Strike](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
 
 I am a technology enthusiast, with a keen interest in python, cloud, data engineering, AI/ML, & gaming.  I love to stay in the fast paced world of computers & gadgets, always keeping an eye out for modern evolutions in technology. Learning new skills is a hobby for me. Perceptive & Retentive nature makes me adapt quickly, and drive solutions that are reliable & effective.
-**I'm open to work and employment opportunities, and always looking to challenge myself.**.
-
-I love to play games and listen to music.
 
 - 🌱 I’m currently working as a Senior Application Engineer at Ansys.
 - 🌱 I’m currently learning many new technologies related to AI/ML, Automation, Azure, etc. & I believe that everyday is a learning opportunity.
