@@ -40,7 +40,7 @@ My passion for Python drives my work, and me to eagerly explores cutting-edge co
 
 - 🌱 I’m currently working as a Senior Application Engineer at Ansys.
 - 🌱 I’m currently learning many new technologies related to AI/ML, Automation, Azure, etc. & I believe that everyday is a learning opportunity.
-- 📫 How to reach me - Email at tushar.bana@ansys.com 
+- 📫 How to reach me - Email at tbana@synopsys.com 
 - 💬 Ask me about python, cloud, gadgets, gaming, and API development.
 - :partying_face: Fun fact: I love to cook, I love to travel, I love to game.
 - :wrench: Tools - VSCode, Postman, Linux/Windows/Mac, Spotify, Android, Playstation, Edge and the Mighty Terminal with Oh MyZSH.
@@ -48,7 +48,6 @@ My passion for Python drives my work, and me to eagerly explores cutting-edge co
 ### Where to find me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-bana-668ba8152/) 
-[![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tushar_bana_)
 
 
 <!---
